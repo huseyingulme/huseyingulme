@@ -5,11 +5,11 @@
 ---
 
 ## 🚀 Hakkımda
-- 🎓 Bilgisayar Mühendisliği öğrencisi  
+- 🎓 Yaızlım Mühendisliği 3.Sınıf öğrencisi  
 - 💼 C#, ASP.NET Core, MSSQL ve modern web teknolojileri ile projeler geliştiriyorum  
 - 🔐 Siber güvenlik alanında kendimi geliştiriyorum  
 - 🌱 Öğrenmeye açık, sürekli yeni teknolojiler denemeyi seven bir yazılım geliştiriciyim  
-- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/huseyingulme) | [E-posta](mailto:mail@ornek.com)
+- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) | [E-posta](huseyin.glm.22@gmail.com)
 
 ---
 
@@ -46,6 +46,15 @@ Kişisel finans yönetimi için ASP.NET Core tabanlı gelir-gider takip uygulama
 🔗 [Projeye Git](https://github.com/huseyingulme/ETicaretProjesi)
 
 ---
+### 🛒 MVC E-Ticaret Projesi
+Ürün yönetimi, sepet ve sipariş işlemlerini içeren PHP tabanlı e-ticaret platformu.  
+✔️ Admin paneli ile ürün & kategori yönetimi  
+✔️ Kullanıcı giriş/çıkış işlemleri  
+✔️ Dinamik sepet yönetimi  
+
+🔗 [Projeye Git](https://github.com/huseyingulme/mvcproje)
+
+---
 
 ### 📚 Bilgi Yönetim Sistemi
 Eğitim kurumları için öğrenci, öğretmen ve ders yönetimi uygulaması.  
@@ -57,6 +66,7 @@ Eğitim kurumları için öğrenci, öğretmen ve ders yönetimi uygulaması.
 
 ---
 
+
 ## 📊 GitHub İstatistiklerim
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=radical)
@@ -65,9 +75,5 @@ Eğitim kurumları için öğrenci, öğretmen ve ders yönetimi uygulaması.
 ---
 
 ## 🌍 Bağlantılarım
-- [LinkedIn](https://www.linkedin.com/in/huseyingulme)  
+- [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/)  
 - [GitHub](https://github.com/huseyingulme)  
-- [Kişisel Websitem (yakında)](https://huseyingulme.github.io)  
-
----
-✨ Her gün yeni bir şey öğrenmeye ve projelerimi geliştirmeye devam ediyorum!
