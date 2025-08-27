@@ -1,16 +1,16 @@
 # 👋 Merhaba, ben Hüseyin Bünyamin GÜLME
 
-💻 Yazılım Geliştirici | 🚀 ASP.NET Core & C# | 🔐 Siber Güvenlik Meraklısı
+💻 **Yazılım Geliştirici** | 🚀 **ASP.NET Core & C#** | 🔐 **Siber Güvenlik Meraklısı**
 
 ---
 
 ## 🚀 Hakkımda
 
-Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğrencisiyim.
-- 🎓 Yazılım Mühendisliği 3. sınıf öğrencisiyim  
+Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğrencisiyim.  
+- 🎓 Yazılım Mühendisliği 3. sınıf öğrencisi  
 - 💼 C#, ASP.NET Core, MSSQL ve modern web teknolojileri ile projeler geliştiriyorum  
 - 🔐 Siber güvenlik alanında kendimi geliştiriyorum  
-- 🌱 Öğrenmeye açık, sürekli yeni teknolojiler denemeyi seven bir yazılım geliştiriciyim  
+- 🌱 Sürekli öğrenmeye açık, yeni teknolojiler denemeyi seven bir geliştiriciyim  
 - 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) | [E-posta](mailto:huseyin.glm.22@gmail.com)
 
 ---
@@ -33,56 +33,62 @@ Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğr
 
 ## 📌 Öne Çıkan Projeler
 
-🏪 Market Otomasyon Projesi
-.NET 8.0 kullanılarak geliştirilmiş Windows Forms tabanlı market otomasyon sistemi.
-✔️ Katmanlı mimari: UI, Business, Data, Common
-✔️ Ürün ve kategori yönetimi
-✔️ Satış ve stok takibi
-✔️ Barkod entegrasyonu
-✔️ Raporlama ve fiş/fatura numaralandırması
+### 🏪 Market Otomasyon Projesi
+.NET 8.0 kullanılarak geliştirilmiş **Windows Forms tabanlı market otomasyon sistemi**.  
+**Özellikler:**  
+- Katmanlı mimari: UI, Business, Data, Common  
+- Ürün ve kategori yönetimi  
+- Satış ve stok takibi  
+- Barkod entegrasyonu  
+- Raporlama ve fiş/fatura numaralandırması  
+
 🔗 [Projeye Git](https://github.com/huseyingulme/MarketOtomasyon)
 
 ---
 
 ### 💰 Masraf Takip Sistemi
-Kişisel finans yönetimi için ASP.NET Core tabanlı gelir-gider takip uygulaması.  
+ASP.NET Core tabanlı **gelir-gider takip uygulaması**.  
 ✔️ Kullanıcı kimlik doğrulama  
-✔️ Gelir & gider işlemleri  
-✔️ MSSQL veritabanı ile kayıt  
+✔️ Gelir & gider yönetimi  
+✔️ MSSQL ile veri saklama  
+
 🔗 [Projeye Git](https://github.com/huseyingulme/MasrafTakipSistemi)
 
 ---
 
 ### 🛒 E-Ticaret Projesi
-Ürün yönetimi, sepet ve sipariş işlemlerini içeren ASP.NET tabanlı e-ticaret platformu.  
+ASP.NET tabanlı **e-ticaret platformu**.  
 ✔️ Admin paneli ile ürün & kategori yönetimi  
 ✔️ Kullanıcı giriş/çıkış işlemleri  
 ✔️ Dinamik sepet yönetimi  
+
 🔗 [Projeye Git](https://github.com/huseyingulme/ETicaretProjesi)
 
 ---
 
 ### 🛒 MVC E-Ticaret Projesi
-PHP tabanlı e-ticaret platformu.  
+PHP tabanlı **e-ticaret platformu**.  
 ✔️ Admin paneli ile ürün & kategori yönetimi  
 ✔️ Kullanıcı giriş/çıkış işlemleri  
 ✔️ Dinamik sepet yönetimi  
+
 🔗 [Projeye Git](https://github.com/huseyingulme/mvcproje)
 
 ---
 
 ### 📚 Bilgi Yönetim Sistemi
-Eğitim kurumları için öğrenci, öğretmen ve ders yönetimi uygulaması.  
+Eğitim kurumları için **öğrenci, öğretmen ve ders yönetimi uygulaması**.  
 ✔️ CRUD işlemleri  
 ✔️ Kullanıcı bazlı erişim yetkileri  
 ✔️ MSSQL destekli  
+
 🔗 [Projeye Git](https://github.com/huseyingulme/BilgiYonetimSistemi)
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulme&layout=compact&theme=radical)
 
 ---
@@ -91,4 +97,8 @@ Eğitim kurumları için öğrenci, öğretmen ve ders yönetimi uygulaması.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/)  
 - 🔗 [GitHub](https://github.com/huseyingulme)  
-- 📧 [E-posta](mailto:huseyin.glm.22@gmail.com)
+- 📧 [E-posta](mailto:huseyin.glm.22@gmail.com)  
+
+---
+
+> “Kod sadece çalışmakla kalmamalı, aynı zamanda anlaşılır, güvenli ve sürdürülebilir olmalı.” – Hüseyin GÜLME
