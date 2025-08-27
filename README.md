@@ -6,8 +6,7 @@
 
 ## 🚀 Hakkımda
 
-Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğrencisiyim. ASP.NET Core ile backend mimarileri kurmak, veri güvenliği sağlamak ve kullanıcı dostu yönetim panelleri tasarlamak benim için birer keyif. Kodun sadece çalışması değil, sürdürülebilir ve anlaşılır olması gerektiğine inanıyorum.
-
+Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğrencisiyim.
 - 🎓 Yazılım Mühendisliği 3. sınıf öğrencisiyim  
 - 💼 C#, ASP.NET Core, MSSQL ve modern web teknolojileri ile projeler geliştiriyorum  
 - 🔐 Siber güvenlik alanında kendimi geliştiriyorum  
