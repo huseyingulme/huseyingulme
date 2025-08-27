@@ -34,7 +34,6 @@ Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğr
 ## 📌 Öne Çıkan Projeler
 
 🏪 Market Otomasyon Projesi
-
 .NET 8.0 kullanılarak geliştirilmiş Windows Forms tabanlı market otomasyon sistemi.
 ✔️ Katmanlı mimari: UI, Business, Data, Common
 ✔️ Ürün ve kategori yönetimi
@@ -42,6 +41,8 @@ Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğr
 ✔️ Barkod entegrasyonu
 ✔️ Raporlama ve fiş/fatura numaralandırması
 🔗 [Projeye Git](https://github.com/huseyingulme/MarketOtomasyon)
+
+---
 
 ### 💰 Masraf Takip Sistemi
 Kişisel finans yönetimi için ASP.NET Core tabanlı gelir-gider takip uygulaması.  
@@ -91,7 +92,3 @@ Eğitim kurumları için öğrenci, öğretmen ve ders yönetimi uygulaması.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/)  
 - 🔗 [GitHub](https://github.com/huseyingulme)  
 - 📧 [E-posta](mailto:huseyin.glm.22@gmail.com)
-
----
-
-> “Kod sadece çalışmakla kalmamalı, aynı zamanda anlaşılır, güvenli ve sürdürülebilir olmalı.” – Hüseyin GÜLME
