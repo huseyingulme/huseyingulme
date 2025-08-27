@@ -36,11 +36,11 @@ Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğr
 ### 🏪 Market Otomasyon Projesi
 .NET 8.0 kullanılarak geliştirilmiş **Windows Forms tabanlı market otomasyon sistemi**.  
 **Özellikler:**  
-- Katmanlı mimari: UI, Business, Data, Common  
-- Ürün ve kategori yönetimi  
-- Satış ve stok takibi  
-- Barkod entegrasyonu  
-- Raporlama ve fiş/fatura numaralandırması  
+✔️ Katmanlı mimari: UI, Business, Data, Common  
+✔️ Ürün ve kategori yönetimi  
+✔️ Satış ve stok takibi  
+✔️ Barkod entegrasyonu  
+✔️ Raporlama ve fiş/fatura numaralandırması  
 
 🔗 [Projeye Git](https://github.com/huseyingulme/MarketOtomasyon)
 
