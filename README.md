@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Hüseyin Bünyamin GÜLME
 
-💻 **Yazılım Geliştirici** | 🚀 **ASP.NET Core & C#** | 🔐 **Siber Güvenlik Meraklısı**
+💻 **Yazılım Geliştirici** | 🚀 **ASP.NET Core & C#** | 🔐 **Siber Güvenlik **
 
 ---
 
