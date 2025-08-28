@@ -28,67 +28,48 @@ Ben Hüseyin, **Yazılım Mühendisliği 3. sınıf öğrencisi** ve yazılım g
 
 ## 🌟 Öne Çıkan Projelerim  
 
-<div align="center">
-
 ### 🏪 Market Otomasyon Projesi  
 🔗 [📂 GitHub Repo](https://github.com/huseyingulme/MarketOtomasyon)  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huseyingulme&repo=MarketOtomasyon&theme=tokyonight" />  
 
-**📌 Açıklama:**  
-- ✔️ **Katmanlı Mimari (UI, Business, Data, Common)** ile profesyonel yapı  
-- ✔️ **Ürün & kategori yönetimi** (ekle, sil, güncelle)  
-- ✔️ **Barkod ile satış işlemleri ve stok takibi**  
-- ✔️ **Fiş, raporlama ve fatura numaralandırması**  
+✔️ Katmanlı mimari (UI, Business, Data, Common)  
+✔️ Ürün & kategori + stok yönetimi  
+✔️ Barkod ile satış ve raporlama  
 
 ---
 
 ### 💰 Masraf Takip Sistemi  
 🔗 [📂 GitHub Repo](https://github.com/huseyingulme/MasrafTakipSistemi)  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huseyingulme&repo=MasrafTakipSistemi&theme=tokyonight" />  
 
-**📌 Açıklama:**  
-- ✔️ **Kullanıcı kimlik doğrulama & güvenli giriş sistemi**  
-- ✔️ **Gelir & gider ekleme, güncelleme ve raporlama**  
-- ✔️ **MSSQL ile güçlü veri tabanı desteği**  
-- ✔️ **Responsive ASP.NET Core MVC arayüzü**  
+✔️ Kullanıcı kimlik doğrulama  
+✔️ Gelir & gider takibi  
+✔️ MSSQL veritabanı desteği  
 
 ---
 
 ### 🛒 E-Ticaret Projesi (.NET)  
 🔗 [📂 GitHub Repo](https://github.com/huseyingulme/ETicaretProjesi)  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huseyingulme&repo=ETicaretProjesi&theme=tokyonight" />  
 
-**📌 Açıklama:**  
-- ✔️ **Admin paneli** ile ürün ve kategori yönetimi  
-- ✔️ **Dinamik sepet yönetimi** (ekle/çıkar/güncelle)  
-- ✔️ **Kullanıcı giriş/çıkış işlemleri**  
-- ✔️ **MSSQL ile veri saklama**  
+✔️ Admin paneli ile ürün yönetimi  
+✔️ Dinamik sepet sistemi  
+✔️ Kullanıcı giriş/çıkış işlemleri  
 
 ---
 
 ### 🛍️ MVC E-Ticaret Projesi (PHP)  
 🔗 [📂 GitHub Repo](https://github.com/huseyingulme/mvcproje)  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huseyingulme&repo=mvcproje&theme=tokyonight" />  
 
-**📌 Açıklama:**  
-- ✔️ **PHP MVC yapısı** ile profesyonel e-ticaret sistemi  
-- ✔️ **Admin paneli üzerinden ürün & kategori yönetimi**  
-- ✔️ **Sepet ve kullanıcı giriş/çıkış işlemleri**  
-- ✔️ **SQL tabanlı veritabanı desteği**  
+✔️ PHP MVC yapısı  
+✔️ Admin paneli ile ürün yönetimi  
+✔️ Sepet ve kullanıcı işlemleri  
 
 ---
 
 ### 📚 Bilgi Yönetim Sistemi  
 🔗 [📂 GitHub Repo](https://github.com/huseyingulme/BilgiYonetimSistemi)  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huseyingulme&repo=BilgiYonetimSistemi&theme=tokyonight" />  
 
-**📌 Açıklama:**  
-- ✔️ **Öğrenci & öğretmen yönetimi** için tam kontrol  
-- ✔️ **CRUD işlemleri (ekle, sil, güncelle, listele)**  
-- ✔️ **Rol tabanlı erişim ve yetkilendirme sistemi**  
-- ✔️ **MSSQL veritabanı desteği**  
-
-</div>
+✔️ Öğrenci & öğretmen yönetimi  
+✔️ CRUD işlemleri  
+✔️ Rol tabanlı erişim  
 
 ---
 
@@ -117,12 +98,3 @@ Ben Hüseyin, **Yazılım Mühendisliği 3. sınıf öğrencisi** ve yazılım g
   <a href="https://github.com/huseyingulme"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 </p>
 
----
-
-## ✨ İlham Veren Söz  
-
-<h3 align="center">“Kod sadece çalışmakla kalmamalı, aynı zamanda anlaşılır, güvenli ve sürdürülebilir olmalı.” – Hüseyin GÜLME</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400"/>
-</p>
