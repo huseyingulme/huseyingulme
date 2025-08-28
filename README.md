@@ -1,99 +1,97 @@
-# 👋 Merhaba, ben Hüseyin Bünyamin GÜLME
+# 👋 Merhaba, ben **Hüseyin Bünyamin GÜLME**
 
-💻 **Yazılım Geliştirici** | 🚀 **ASP.NET Core & C#** | 🔐 **Siber Güvenlik **
+💻 **Yazılım Geliştirici** | 🚀 **ASP.NET Core & C#** | 🔐 **Siber Güvenlik**
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 Hakkımda  
 
 Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğrencisiyim.  
+
 - 🎓 Yazılım Mühendisliği 3. sınıf öğrencisi  
-- 💼 C#, ASP.NET Core, MSSQL ve modern web teknolojileri ile projeler geliştiriyorum  
-- 🔐 Siber güvenlik alanında kendimi geliştiriyorum  
+- 💼 **C#, ASP.NET Core, MSSQL** ve modern web teknolojileri ile projeler geliştiriyorum  
+- 🔐 Siber güvenlik alanında aktif olarak çalışıyor ve kendimi geliştiriyorum  
 - 🌱 Sürekli öğrenmeye açık, yeni teknolojiler denemeyi seven bir geliştiriciyim  
-- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) | [E-posta](mailto:huseyin.glm.22@gmail.com)
+
+📫 Bana ulaş: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseyin.glm.22@gmail.com)
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Kullandığım Teknolojiler  
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,js,html,css,linux,mysql,git,github,visualstudio,vscode" />
+</p>
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## 📌 Öne Çıkan Projeler  
 
-### 🏪 Market Otomasyon Projesi
-.NET 8.0 kullanılarak geliştirilmiş **Windows Forms tabanlı market otomasyon sistemi**.  
-**Özellikler:**  
-✔️ Katmanlı mimari: UI, Business, Data, Common  
-✔️ Ürün ve kategori yönetimi  
-✔️ Satış ve stok takibi  
-✔️ Barkod entegrasyonu  
-✔️ Raporlama ve fiş/fatura numaralandırması  
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### 🏪 Market Otomasyon  
+✔️ Katmanlı mimari (UI, Business, Data, Common)  
+✔️ Ürün & kategori yönetimi  
+✔️ Stok & satış takibi, barkod entegrasyonu  
+✔️ Fiş / fatura raporlama  
 
-🔗 [Projeye Git](https://github.com/huseyingulme/MarketOtomasyon)
+🔗 [📂 GitHub Repo](https://github.com/huseyingulme/MarketOtomasyon)  
 
----
+</td>
+<td align="center" width="50%">
 
-### 💰 Masraf Takip Sistemi
-ASP.NET Core tabanlı **gelir-gider takip uygulaması**.  
+### 💰 Masraf Takip Sistemi  
 ✔️ Kullanıcı kimlik doğrulama  
 ✔️ Gelir & gider yönetimi  
 ✔️ MSSQL ile veri saklama  
 
-🔗 [Projeye Git](https://github.com/huseyingulme/MasrafTakipSistemi)
+🔗 [📂 GitHub Repo](https://github.com/huseyingulme/MasrafTakipSistemi)  
 
----
+</td>
+</tr>
+<tr>
+<td align="center">
 
-### 🛒 E-Ticaret Projesi
-ASP.NET tabanlı **e-ticaret platformu**.  
-✔️ Admin paneli ile ürün & kategori yönetimi  
-✔️ Kullanıcı giriş/çıkış işlemleri  
-✔️ Dinamik sepet yönetimi  
+### 🛒 E-Ticaret Projesi (.NET)  
+✔️ Admin paneli  
+✔️ Sepet & kullanıcı giriş/çıkış  
+✔️ Dinamik ürün yönetimi  
 
-🔗 [Projeye Git](https://github.com/huseyingulme/ETicaretProjesi)
+🔗 [📂 GitHub Repo](https://github.com/huseyingulme/ETicaretProjesi)  
 
----
+</td>
+<td align="center">
 
-### 🛒 MVC E-Ticaret Projesi
-PHP tabanlı **e-ticaret platformu**.  
-✔️ Admin paneli ile ürün & kategori yönetimi  
-✔️ Kullanıcı giriş/çıkış işlemleri  
-✔️ Dinamik sepet yönetimi  
-
-🔗 [Projeye Git](https://github.com/huseyingulme/mvcproje)
-
----
-
-### 📚 Bilgi Yönetim Sistemi
-Eğitim kurumları için **öğrenci, öğretmen ve ders yönetimi uygulaması**.  
-✔️ CRUD işlemleri  
-✔️ Kullanıcı bazlı erişim yetkileri  
+### 📚 Bilgi Yönetim Sistemi  
+✔️ Öğrenci & öğretmen yönetimi  
+✔️ CRUD + rol tabanlı yetkilendirme  
 ✔️ MSSQL destekli  
 
-🔗 [Projeye Git](https://github.com/huseyingulme/BilgiYonetimSistemi)
+🔗 [📂 GitHub Repo](https://github.com/huseyingulme/BilgiYonetimSistemi)  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub İstatistiklerim  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulme&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyingulme&theme=tokyonight" alt="streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyingulme&theme=tokyo-night" alt="activity graph" />
+</p>
 
 ---
 
-## 🌍 Bağlantılarım
+## 🌍 Bağlantılarım  
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/)  
 - 🔗 [GitHub](https://github.com/huseyingulme)  
@@ -101,4 +99,8 @@ Eğitim kurumları için **öğrenci, öğretmen ve ders yönetimi uygulaması**
 
 ---
 
-> “Kod sadece çalışmakla kalmamalı, aynı zamanda anlaşılır, güvenli ve sürdürülebilir olmalı.” – Hüseyin GÜLME
+## ✨ Alıntı  
+
+> *“Kod sadece çalışmakla kalmamalı, aynı zamanda anlaşılır, güvenli ve sürdürülebilir olmalı.”* – **Hüseyin GÜLME**
+
+---
