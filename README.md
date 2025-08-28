@@ -21,8 +21,10 @@ Ben Hüseyin, **Yazılım Mühendisliği 3. sınıf öğrencisi** ve yazılım g
 ## 🛠️ Kullandığım Teknolojiler  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,js,html,css,linux,mysql,git,github,visualstudio,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,php,js,html,css,laravel,mysql,mssql,linux,postman" />
+  <img src="https://static.cdnlogo.com/logos/s/70/swagger.svg" width="48" height="48" />
 </p>
+
 
 ---
 
