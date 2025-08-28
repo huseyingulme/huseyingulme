@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=👋+Merhaba!+Ben+Hüseyin+Bünyamin+GÜLME;💻+Yazılım+Geliştirici;🚀+ASP.NET+Core+%26+C%23;🔐+Siber+Güvenlik+Meraklısı;✨+Full+Stack+Developer+Adayı" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=👋+Merhaba!+Ben+Hüseyin+Bünyamin+GÜLME;💻+Yazılım+Geliştirici;🚀+ASP.NET+Core+%26+C%23;🔐+Siber+Güvenlik;✨+Full+Stack+Developer+Adayı" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -72,24 +72,6 @@ Ben Hüseyin, **Yazılım Mühendisliği 3. sınıf öğrencisi** ve yazılım g
 ✔️ CRUD işlemleri  
 ✔️ Rol tabanlı erişim  
 
----
-
-## 📊 GitHub İstatistiklerim  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyingulme&theme=radical&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huseyingulme&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyingulme&theme=react-dark" alt="activity graph"/>
-</p>
-
----
 
 ## 🌍 Bağlantılarım  
 
