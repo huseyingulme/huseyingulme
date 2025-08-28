@@ -1,20 +1,20 @@
-# 👋 Merhaba, ben **Hüseyin Bünyamin GÜLME**
-
-💻 **Yazılım Geliştirici** | 🚀 **ASP.NET Core & C#** | 🔐 **Siber Güvenlik**
+<h1 align="center">👋 Merhaba, ben Hüseyin Bünyamin GÜLME</h1>
+<h3 align="center">💻 Yazılım Geliştirici | 🚀 ASP.NET Core & C# | 🔐 Siber Güvenlik</h3>
 
 ---
 
 ## 🚀 Hakkımda  
 
-Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğrencisiyim.  
-
-- 🎓 Yazılım Mühendisliği 3. sınıf öğrencisi  
+Ben Hüseyin, yazılım geliştirme tutkusu olan bir **Yazılım Mühendisliği 3. sınıf öğrencisiyim**.  
 - 💼 **C#, ASP.NET Core, MSSQL** ve modern web teknolojileri ile projeler geliştiriyorum  
-- 🔐 Siber güvenlik alanında aktif olarak çalışıyor ve kendimi geliştiriyorum  
-- 🌱 Sürekli öğrenmeye açık, yeni teknolojiler denemeyi seven bir geliştiriciyim  
+- 🔐 Siber güvenlik alanında kendimi geliştiriyorum  
+- 🌱 Sürekli öğrenmeye açık, yeni teknolojiler denemeyi seviyorum  
 
-📫 Bana ulaş: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseyin.glm.22@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:huseyin.glm.22@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/huseyingulme"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -28,79 +28,83 @@ Merhaba! Ben Hüseyin, yazılım geliştirme tutkusu olan bir mühendislik öğr
 
 ## 📌 Öne Çıkan Projeler  
 
-<table>
-<tr>
-<td align="center" width="50%">
-  
-### 🏪 Market Otomasyon  
-✔️ Katmanlı mimari (UI, Business, Data, Common)  
-✔️ Ürün & kategori yönetimi  
-✔️ Stok & satış takibi, barkod entegrasyonu  
-✔️ Fiş / fatura raporlama  
+<p align="center">
+  <img src="https://github.com/huseyingulme/MarketOtomasyon/blob/main/Assets/banner.png" width="800px" alt="banner"/>
+</p>
 
+<div align="center">
+
+### 🏪 Market Otomasyon Projesi  
+📌 [.NET 8.0 | Windows Forms | Katmanlı Mimari]  
+✔️ Ürün & kategori yönetimi  
+✔️ Satış & stok takibi  
+✔️ Barkod entegrasyonu  
+✔️ Raporlama & fatura numaralandırması  
 🔗 [📂 GitHub Repo](https://github.com/huseyingulme/MarketOtomasyon)  
 
-</td>
-<td align="center" width="50%">
+---
 
 ### 💰 Masraf Takip Sistemi  
+📌 [ASP.NET Core | MSSQL | API]  
 ✔️ Kullanıcı kimlik doğrulama  
 ✔️ Gelir & gider yönetimi  
-✔️ MSSQL ile veri saklama  
-
+✔️ MSSQL veritabanı desteği  
 🔗 [📂 GitHub Repo](https://github.com/huseyingulme/MasrafTakipSistemi)  
 
-</td>
-</tr>
-<tr>
-<td align="center">
+---
 
 ### 🛒 E-Ticaret Projesi (.NET)  
-✔️ Admin paneli  
-✔️ Sepet & kullanıcı giriş/çıkış  
-✔️ Dinamik ürün yönetimi  
-
+📌 [ASP.NET | Admin Panel | Dinamik Sepet]  
+✔️ Ürün & kategori yönetimi  
+✔️ Kullanıcı giriş/çıkış işlemleri  
+✔️ Dinamik sepet yönetimi  
 🔗 [📂 GitHub Repo](https://github.com/huseyingulme/ETicaretProjesi)  
 
-</td>
-<td align="center">
+---
+
+### 🛍️ MVC E-Ticaret Projesi (PHP)  
+📌 [PHP | MVC Yapısı | Admin Panel]  
+✔️ Ürün & kategori yönetimi  
+✔️ Kullanıcı giriş/çıkış işlemleri  
+✔️ Dinamik sepet yönetimi  
+🔗 [📂 GitHub Repo](https://github.com/huseyingulme/mvcproje)  
+
+---
 
 ### 📚 Bilgi Yönetim Sistemi  
+📌 [MSSQL | CRUD | Kullanıcı Yetkileri]  
 ✔️ Öğrenci & öğretmen yönetimi  
-✔️ CRUD + rol tabanlı yetkilendirme  
-✔️ MSSQL destekli  
-
+✔️ CRUD işlemleri  
+✔️ Rol tabanlı yetkilendirme  
 🔗 [📂 GitHub Repo](https://github.com/huseyingulme/BilgiYonetimSistemi)  
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 📊 GitHub İstatistiklerim  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyingulme&theme=tokyonight" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulme&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyingulme&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyingulme&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyingulme&theme=tokyo-night" alt="activity graph"/>
 </p>
 
 ---
 
 ## 🌍 Bağlantılarım  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/)  
-- 🔗 [GitHub](https://github.com/huseyingulme)  
-- 📧 [E-posta](mailto:huseyin.glm.22@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/h%C3%BCseyin-g%C3%BClme/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:huseyin.glm.22@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://github.com/huseyingulme"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
+</p>
 
 ---
 
-## ✨ Alıntı  
+## ✨ İlham Veren Söz  
 
 > *“Kod sadece çalışmakla kalmamalı, aynı zamanda anlaşılır, güvenli ve sürdürülebilir olmalı.”* – **Hüseyin GÜLME**
-
----
